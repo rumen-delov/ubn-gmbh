@@ -1,2 +1,2 @@
 # ubn-gmbh
-A dummy website for a construction company.
+Website for a construction company.
